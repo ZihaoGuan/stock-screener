@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "INTA",
-    "fetch_date": "2026-05-04T14:50:59.535795",
+    "fetch_date": "2026-05-12T15:11:06.605674",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 121209000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -5.12,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:50:59.537072"
+  "fetched_at": "2026-05-12T15:11:06.607005"
 }

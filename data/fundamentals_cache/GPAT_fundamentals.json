@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GPAT",
-    "fetch_date": "2026-05-04T14:46:35.231967",
+    "fetch_date": "2026-05-12T15:06:41.644559",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 0.0,
@@ -25,5 +25,5 @@
     "operating_margin": 0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:46:35.232898"
+  "fetched_at": "2026-05-12T15:06:41.645530"
 }
