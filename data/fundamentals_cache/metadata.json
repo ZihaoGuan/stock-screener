@@ -9690,5 +9690,17 @@
   "LBRX": {
     "last_updated": "2026-06-29T16:05:19.556834",
     "in_earnings_season": false
+  },
+  "HOFT": {
+    "last_updated": "2026-06-30T14:26:03.602874",
+    "in_earnings_season": false
+  },
+  "LGN": {
+    "last_updated": "2026-06-30T14:32:07.326988",
+    "in_earnings_season": false
+  },
+  "VIA": {
+    "last_updated": "2026-06-30T14:58:09.416014",
+    "in_earnings_season": false
   }
 }
