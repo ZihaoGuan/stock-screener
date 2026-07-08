@@ -8768,7 +8768,7 @@
     "in_earnings_season": true
   },
   "AMCI": {
-    "last_updated": "2026-02-27T13:19:05.525839",
+    "last_updated": "2026-07-08T13:45:56.644210",
     "in_earnings_season": false
   },
   "BSY": {
@@ -9741,6 +9741,10 @@
   },
   "NTSK": {
     "last_updated": "2026-07-07T14:49:32.902179",
+    "in_earnings_season": false
+  },
+  "PTRN": {
+    "last_updated": "2026-07-08T14:28:57.962595",
     "in_earnings_season": false
   }
 }
