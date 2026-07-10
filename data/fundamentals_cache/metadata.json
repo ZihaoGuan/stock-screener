@@ -4252,7 +4252,7 @@
     "in_earnings_season": true
   },
   "MPAA": {
-    "last_updated": "2026-04-08T14:28:35.949378",
+    "last_updated": "2026-07-10T14:39:09.423386",
     "in_earnings_season": false
   },
   "MPC": {
@@ -6980,7 +6980,7 @@
     "in_earnings_season": true
   },
   "YEXT": {
-    "last_updated": "2025-12-04T14:20:22.578845",
+    "last_updated": "2026-07-10T15:04:40.846390",
     "in_earnings_season": false
   },
   "YUM": {
@@ -9745,6 +9745,14 @@
   },
   "PTRN": {
     "last_updated": "2026-07-08T14:28:57.962595",
+    "in_earnings_season": false
+  },
+  "STUB": {
+    "last_updated": "2026-07-10T14:56:01.594741",
+    "in_earnings_season": false
+  },
+  "TGLS": {
+    "last_updated": "2026-07-10T14:57:19.748110",
     "in_earnings_season": false
   }
 }
