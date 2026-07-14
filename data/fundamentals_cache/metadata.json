@@ -984,7 +984,7 @@
     "in_earnings_season": true
   },
   "BLKB": {
-    "last_updated": "2025-12-04T13:39:50.153298",
+    "last_updated": "2026-07-14T13:19:41.033449",
     "in_earnings_season": false
   },
   "BLX": {
@@ -9765,6 +9765,10 @@
   },
   "INTG": {
     "last_updated": "2026-07-13T14:38:08.529012",
+    "in_earnings_season": false
+  },
+  "UFI": {
+    "last_updated": "2026-07-14T14:09:09.603929",
     "in_earnings_season": false
   }
 }
