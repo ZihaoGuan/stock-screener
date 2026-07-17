@@ -5762,5 +5762,101 @@
   "WOLF": {
     "last_updated": "2026-07-16T14:24:28.757811",
     "in_earnings_season": true
+  },
+  "AMPH": {
+    "last_updated": "2026-07-17T13:10:31.024981",
+    "in_earnings_season": true
+  },
+  "BFC": {
+    "last_updated": "2026-07-17T13:14:40.922659",
+    "in_earnings_season": true
+  },
+  "CDRE": {
+    "last_updated": "2026-07-17T13:18:36.178943",
+    "in_earnings_season": true
+  },
+  "CRM": {
+    "last_updated": "2026-07-17T13:21:39.055974",
+    "in_earnings_season": true
+  },
+  "DLHC": {
+    "last_updated": "2026-07-17T13:24:08.166473",
+    "in_earnings_season": true
+  },
+  "EPAC": {
+    "last_updated": "2026-07-17T13:26:44.338337",
+    "in_earnings_season": true
+  },
+  "EXLS": {
+    "last_updated": "2026-07-17T13:27:36.285266",
+    "in_earnings_season": true
+  },
+  "EXP": {
+    "last_updated": "2026-07-17T13:27:39.174972",
+    "in_earnings_season": true
+  },
+  "FSUN": {
+    "last_updated": "2026-07-17T13:30:05.372384",
+    "in_earnings_season": true
+  },
+  "G": {
+    "last_updated": "2026-07-17T13:30:32.442794",
+    "in_earnings_season": true
+  },
+  "GGG": {
+    "last_updated": "2026-07-17T13:31:18.666466",
+    "in_earnings_season": true
+  },
+  "ICE": {
+    "last_updated": "2026-07-17T13:35:34.688025",
+    "in_earnings_season": true
+  },
+  "LKQ": {
+    "last_updated": "2026-07-17T13:40:46.437285",
+    "in_earnings_season": true
+  },
+  "LMT": {
+    "last_updated": "2026-07-17T13:40:54.860692",
+    "in_earnings_season": true
+  },
+  "MMS": {
+    "last_updated": "2026-07-17T13:43:50.840325",
+    "in_earnings_season": true
+  },
+  "MWA": {
+    "last_updated": "2026-07-17T13:45:08.707808",
+    "in_earnings_season": true
+  },
+  "MZTI": {
+    "last_updated": "2026-07-17T13:45:23.804893",
+    "in_earnings_season": true
+  },
+  "NOG": {
+    "last_updated": "2026-07-17T13:46:48.708745",
+    "in_earnings_season": true
+  },
+  "OGS": {
+    "last_updated": "2026-07-17T13:48:35.777796",
+    "in_earnings_season": true
+  },
+  "PATK": {
+    "last_updated": "2026-07-17T13:50:22.749010",
+    "in_earnings_season": true
+  },
+  "PEGA": {
+    "last_updated": "2026-07-17T13:50:59.607251",
+    "in_earnings_season": true
+  },
+  "SAM": {
+    "last_updated": "2026-07-17T13:56:42.597277",
+    "in_earnings_season": true
+  },
+  "SUI": {
+    "last_updated": "2026-07-17T14:01:06.962390",
+    "in_earnings_season": true
+  },
+  "ULTA": {
+    "last_updated": "2026-07-17T14:05:07.758973",
+    "in_earnings_season": true
   }
 }
