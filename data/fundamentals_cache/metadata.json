@@ -5858,5 +5858,57 @@
   "ULTA": {
     "last_updated": "2026-07-17T14:05:07.758973",
     "in_earnings_season": true
+  },
+  "AARD": {
+    "last_updated": "2026-07-20T13:50:10.822156",
+    "in_earnings_season": true
+  },
+  "ARLO": {
+    "last_updated": "2026-07-20T13:54:34.148931",
+    "in_earnings_season": true
+  },
+  "MPAA": {
+    "last_updated": "2026-07-20T14:26:52.022122",
+    "in_earnings_season": true
+  },
+  "NP": {
+    "last_updated": "2026-07-20T14:29:33.786726",
+    "in_earnings_season": true
+  },
+  "QLYS": {
+    "last_updated": "2026-07-20T14:36:28.323540",
+    "in_earnings_season": true
+  },
+  "RCEL": {
+    "last_updated": "2026-07-20T14:37:07.497307",
+    "in_earnings_season": true
+  },
+  "RGNX": {
+    "last_updated": "2026-07-20T14:37:49.601835",
+    "in_earnings_season": true
+  },
+  "RH": {
+    "last_updated": "2026-07-20T14:37:53.387025",
+    "in_earnings_season": true
+  },
+  "TECH": {
+    "last_updated": "2026-07-20T14:44:54.527165",
+    "in_earnings_season": true
+  },
+  "TGLS": {
+    "last_updated": "2026-07-20T14:45:10.632230",
+    "in_earnings_season": true
+  },
+  "TLK": {
+    "last_updated": "2026-07-20T14:45:34.639516",
+    "in_earnings_season": true
+  },
+  "TNET": {
+    "last_updated": "2026-07-20T14:45:53.529119",
+    "in_earnings_season": true
+  },
+  "YEXT": {
+    "last_updated": "2026-07-20T14:52:28.531854",
+    "in_earnings_season": true
   }
 }
