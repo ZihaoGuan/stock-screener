@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GM",
-    "fetch_date": "2026-07-15T13:44:08.298115",
+    "fetch_date": "2026-07-22T14:00:40.579789",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 44020000000.0,
       "2025-06-30 00:00:00": 47122000000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.357,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:44:08.299683"
+  "fetched_at": "2026-07-22T14:00:40.581299"
 }

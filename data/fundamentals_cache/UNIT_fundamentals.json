@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "UNIT",
-    "fetch_date": "2026-07-15T14:22:42.478454",
+    "fetch_date": "2026-07-22T14:48:59.520286",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 293900000.0,
@@ -25,17 +25,7 @@
     "gross_margin": 60.71,
     "margin_change": 3.39,
     "operating_margin": 14.28,
-    "quarterly_inventory": {
-      "2024-12-31 00:00:00": 0.0,
-      "2025-03-31 00:00:00": NaN,
-      "2025-06-30 00:00:00": NaN,
-      "2025-09-30 00:00:00": NaN,
-      "2025-12-31 00:00:00": 44000000.0,
-      "2026-03-31 00:00:00": 43800000.0
-    },
-    "inventory_qoq_change": -0.45,
-    "inventory_to_sales_ratio": 0.044,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:22:42.480239"
+  "fetched_at": "2026-07-22T14:48:59.521437"
 }

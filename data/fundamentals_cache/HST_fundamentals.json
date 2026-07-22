@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HST",
-    "fetch_date": "2026-07-15T13:47:46.031121",
+    "fetch_date": "2026-07-22T14:05:44.280940",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 1594000000.0,
       "2025-06-30 00:00:00": 1586000000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 18.97,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:47:46.032314"
+  "fetched_at": "2026-07-22T14:05:44.282259"
 }

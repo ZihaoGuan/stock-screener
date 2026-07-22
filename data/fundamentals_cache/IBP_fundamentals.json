@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "IBP",
-    "fetch_date": "2026-07-15T13:48:44.060092",
+    "fetch_date": "2026-07-22T14:06:27.420179",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 684800000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.311,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:48:44.065307"
+  "fetched_at": "2026-07-22T14:06:27.421722"
 }
