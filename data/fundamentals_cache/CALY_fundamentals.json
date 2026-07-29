@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CALY",
-    "fetch_date": "2026-07-22T13:39:57.298777",
+    "fetch_date": "2026-07-29T13:57:59.637497",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 629600000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.867,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T13:39:57.300279"
+  "fetched_at": "2026-07-29T13:57:59.639018"
 }

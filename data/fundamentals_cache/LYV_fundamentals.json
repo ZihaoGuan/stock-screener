@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "LYV",
-    "fetch_date": "2026-07-22T14:15:25.466625",
+    "fetch_date": "2026-07-29T14:22:10.128662",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 3382117000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": NaN,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:15:25.467851"
+  "fetched_at": "2026-07-29T14:22:10.129896"
 }

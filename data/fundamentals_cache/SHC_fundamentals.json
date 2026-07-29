@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SHC",
-    "fetch_date": "2026-07-22T14:37:59.309734",
+    "fetch_date": "2026-07-29T14:38:23.441627",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 254523000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.205,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:37:59.311240"
+  "fetched_at": "2026-07-29T14:38:23.443082"
 }

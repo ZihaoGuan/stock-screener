@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "OKE",
-    "fetch_date": "2026-07-22T14:26:16.486501",
+    "fetch_date": "2026-07-29T14:29:01.459849",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 8043000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.118,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:26:16.487986"
+  "fetched_at": "2026-07-29T14:29:01.461318"
 }
