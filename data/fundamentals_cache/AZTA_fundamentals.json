@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AZTA",
-    "fetch_date": "2026-07-29T13:53:50.487714",
+    "fetch_date": "2026-08-07T12:47:54.906901",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 143338000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.542,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T13:53:50.489191"
+  "fetched_at": "2026-08-07T12:47:54.908700"
 }
