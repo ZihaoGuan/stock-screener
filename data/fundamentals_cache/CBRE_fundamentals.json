@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CBRE",
-    "fetch_date": "2026-08-06T13:54:13.725294",
+    "fetch_date": "2026-08-14T12:53:59.144461",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 9717000000.0,
       "2025-09-30 00:00:00": 10258000000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 3.21,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T13:54:13.726466"
+  "fetched_at": "2026-08-14T12:53:59.145806"
 }

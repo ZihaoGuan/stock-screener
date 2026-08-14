@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SPOK",
-    "fetch_date": "2026-08-06T14:36:11.090450",
+    "fetch_date": "2026-08-14T13:35:59.679926",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 35686000.0,
       "2025-09-30 00:00:00": 33867000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 19.91,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T14:36:11.091609"
+  "fetched_at": "2026-08-14T13:35:59.681257"
 }
