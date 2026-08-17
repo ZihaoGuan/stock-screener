@@ -7950,5 +7950,29 @@
   "PKOH": {
     "last_updated": "2026-08-14T13:27:33.481240",
     "in_earnings_season": true
+  },
+  "IMXI": {
+    "last_updated": "2026-08-17T12:53:11.757350",
+    "in_earnings_season": false
+  },
+  "METC": {
+    "last_updated": "2026-08-17T13:00:04.873847",
+    "in_earnings_season": false
+  },
+  "MPLT": {
+    "last_updated": "2026-08-17T13:01:14.651823",
+    "in_earnings_season": false
+  },
+  "ONCH": {
+    "last_updated": "2026-08-17T13:06:00.731834",
+    "in_earnings_season": false
+  },
+  "RM": {
+    "last_updated": "2026-08-17T13:12:37.926610",
+    "in_earnings_season": false
+  },
+  "TLSI": {
+    "last_updated": "2026-08-17T13:19:58.897010",
+    "in_earnings_season": false
   }
 }
