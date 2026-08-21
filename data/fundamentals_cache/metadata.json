@@ -8558,5 +8558,13 @@
   "NAVN": {
     "last_updated": "2026-08-20T13:07:05.327353",
     "in_earnings_season": false
+  },
+  "PMTS": {
+    "last_updated": "2026-08-21T13:12:34.438292",
+    "in_earnings_season": false
+  },
+  "UI": {
+    "last_updated": "2026-08-21T13:25:37.681869",
+    "in_earnings_season": false
   }
 }
