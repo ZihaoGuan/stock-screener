@@ -8582,5 +8582,21 @@
   "REAX": {
     "last_updated": "2026-08-25T13:16:45.105495",
     "in_earnings_season": false
+  },
+  "BLLN": {
+    "last_updated": "2026-08-26T12:40:59.695603",
+    "in_earnings_season": false
+  },
+  "SATA": {
+    "last_updated": "2026-08-26T13:22:26.070815",
+    "in_earnings_season": false
+  },
+  "STRK": {
+    "last_updated": "2026-08-26T13:26:30.228255",
+    "in_earnings_season": false
+  },
+  "SUNC": {
+    "last_updated": "2026-08-26T13:26:45.238471",
+    "in_earnings_season": false
   }
 }
